@@ -1,0 +1,1 @@
+A script to monitor RAM consumption and generate an alarm by sending an http request to the API
